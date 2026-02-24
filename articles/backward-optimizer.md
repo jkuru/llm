@@ -145,6 +145,12 @@ Everything else — data loading, evaluation, checkpointing, sampling strategies
 
 ---
 
+## Acknowledgments
+
+This article is built on the work of **Sebastian Raschka** and his book [*Build a Large Language Model (From Scratch)*](https://www.manning.com/books/build-a-large-language-model-from-scratch) (Manning, 2024). The model architecture and training code follow his [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) implementation (Apache 2.0). If you want to truly understand transformers at the weight level, this book is the best resource out there.
+
+---
+
 *I'm documenting my journey learning LLM internals from scratch. Follow along for more deep dives into how these models actually work.*
 
-*Built with code from Sebastian Raschka's "Build a Large Language Model From Scratch" — highly recommended if you want to understand transformers at the weight level.*
+*Full code: [github.com/jkuru/llm](https://github.com/jkuru/llm)*
