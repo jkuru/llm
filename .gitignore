@@ -40,3 +40,12 @@ uv.lock
 
 # Misc
 .env
+
+# Downloaded model weights
+gpt2/
+
+# Generated outputs
+*.pdf
+
+# Editor/tool configs
+.claude/
